@@ -17,11 +17,11 @@ It uses:
 ### Synthetic dataset samples
 Added caption text to the image as title:
 
-<img src="assets/img_1.png" width="150" />
-<img src="assets/img_2.png" width="150" />
-<img src="assets/img_3.png" width="150" />
-<img src="assets/img_4.png" width="150" />
-<img src="assets/img_5.png" width="150" />
+<img src="assets/img_1.png" width="100" />
+<img src="assets/img_2.png" width="100" />
+<img src="assets/img_3.png" width="100" />
+<img src="assets/img_4.png" width="100" />
+<img src="assets/img_5.png" width="100" />
 
 Generated on-the-fly in `scripts/synthetic_data_generator.py`.
 
